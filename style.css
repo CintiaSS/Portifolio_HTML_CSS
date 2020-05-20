@@ -1,0 +1,39 @@
+body{
+    margin-top: 10px;
+    background-color:white;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+head{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.img_carreira{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 300px;
+
+}
+
+.img_formacao{
+    
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 300px;
+
+}
+
+.img_projetos{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 300px;
+
+}
+
+footer{
+    margin-top: 100px;
+}
