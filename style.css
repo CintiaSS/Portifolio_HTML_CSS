@@ -12,28 +12,56 @@ head{
     margin-bottom: 100px;
 }
 
-.img_carreira{
+.portifolio{
     margin-top: 30px;
     margin-bottom: 30px;
     width: 300px;
-
+    background-color: #F6CEE3;
+    
 }
 
-.img_formacao{
+.img_projetos{
     
     margin-top: 30px;
     margin-bottom: 30px;
     width: 300px;
+    
 
 }
 
-.img_projetos{
+.carreira{
     margin-top: 30px;
     margin-bottom: 30px;
     width: 300px;
-
+    background-color: #F6CEE3;
 }
 
 footer{
     margin-top: 100px;
+}
+
+.sobremim{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 300px;
+    background-color: #F6CEE3;
+
+}
+.navbar{
+    background-color:lightpink;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 450px;
+}
+
+.img_sobremim{
+    margin-top: 20px;
+}
+
+.formacao{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 300px;
+    background-color: #F6CEE3;
+
 }
