@@ -1,51 +1,23 @@
 body{
     margin-top: 10px;
-    
     margin-left: 10px;
     margin-right: 10px;
     margin-bottom: 10px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    border: solid violet 15px;
     background-color: violet;
-
+    background-image: url(IMG/planofundo.jpg);
 }
-
-head{
-    margin-top: 100px;
-    margin-bottom: 100px;
-   
-    
-}
-
-
-
 
 .portifolio{
     margin-top: 30px;
     margin-bottom: 30px;
     width: 300px;
-    background-color: #F6CEE3;
-    border: solid  rgb(160, 45, 154);
-    
-    
+        
 }
 
-.img_projetos{
-    
-    margin-top: 30px;
-    margin-bottom: 30px;
-    width: 300px;
-    
 
-}
 
-.carreira{
-    margin-top: 30px;
-    margin-bottom: 30px;
-    width: 300px;
-    background-color: #F6CEE3;
-    border: solid  rgb(160, 45, 154);
-}
+
 
 footer{
     margin-top: 100px;
@@ -55,36 +27,33 @@ footer{
     margin-top: 30px;
     margin-bottom: 30px;
     width: 300px;
-    background-color: #F6CEE3;
-    border: solid  rgb(160, 45, 154);
-
+   
 }
 .navbar{
-    background-color:#F6CEE3;
+    
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 450px;
-    border: solid  rgb(160, 45, 154);
+    
     
 }
 
 .img_sobremim{
     margin-top: 20px;
+    
 }
 
 .formacao{
     margin-top: 30px;
     margin-bottom: 30px;
     width: 300px;
-    background-color: #F6CEE3;
-    border: solid  rgb(160, 45, 154);
-
+    
 }
 
 .contato{
     margin-top: 30px;
     margin-bottom: 30px;
     width: 300px;
-    background-color: #F6CEE3;
-    border: solid  rgb(160, 45, 154);
+    
+    
 }
