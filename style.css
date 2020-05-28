@@ -80,3 +80,11 @@ footer{
     border: solid  rgb(160, 45, 154);
 
 }
+
+.contato{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 300px;
+    background-color: #F6CEE3;
+    border: solid  rgb(160, 45, 154);
+}
