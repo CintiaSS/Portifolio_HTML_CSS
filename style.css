@@ -7,12 +7,14 @@ body{
     background-color: violet;
     background-image: url(IMG/planofundo.jpg);
     background-size: 2000px;
+    font-family: 'Acme', sans-serif;
 }
 
 .portifolio{
     margin-top: 30px;
     margin-bottom: 30px;
     width: 300px;
+   
         
 }
 
@@ -35,6 +37,7 @@ footer{
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 450px;
+    font-family: 'Indie Flower', cursive;
     
     
 }
