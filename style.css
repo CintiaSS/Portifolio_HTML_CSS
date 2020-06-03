@@ -1,16 +1,13 @@
 body{
-    margin-top: 10px;
-    margin-left: 10px;
-    margin-right: 10px;
-    margin-bottom: 10px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: violet;
-    background-image: url(IMG/planofundo.jpg);
-    background-size: 2000px;
+   
+    background-image: url(IMG/fundotec.jpg);
+    background-size: 100%;
+    background-position: center;
+    background-attachment: fixed;
     font-family: 'Acme', sans-serif;
 }
 
-.portifolio{
+#portifolio{
     margin-top: 30px;
     margin-bottom: 30px;
     width: 300px;
@@ -20,44 +17,52 @@ body{
 
 
 
-
-
-footer{
-    margin-top: 100px;
-}
-
-.sobremim{
-    margin-top: 30px;
-    margin-bottom: 30px;
-    width: 300px;
-   
-}
 .navbar{
-    
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 30px;
+    padding-bottom: 30px;
     padding-left: 450px;
     font-family: 'Indie Flower', cursive;
+    color:  black;
     
     
 }
 
-.img_sobremim{
+#sobremim label img{
+   
     margin-top: 20px;
+    width:110px;
+    height:190px;
+    padding: 20px 10px 10px 20px;
     
 }
 
-.formacao{
-    margin-top: 30px;
-    margin-bottom: 30px;
-    width: 300px;
+#formacao label{
+    text-align: center;
+    align-items: center;
     
 }
 
-.contato{
+#contato{
     margin-top: 30px;
     margin-bottom: 30px;
-    width: 300px;
+    width: 30px;
+    
+    display: flex;
+    justify-content: right;
+    text-align: right;
+    
+}
+
+#contato label img{
+    width: 30px; 
+    height: 30px;   
+    
+    align-items: left;
     
     
+}
+
+#contato label a{
+    display: inline;
+    text-align: left;
 }
