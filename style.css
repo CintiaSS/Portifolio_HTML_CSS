@@ -1,10 +1,14 @@
 body{
    
-    background-image: url(IMG/fundotec.jpg);
-    background-size: 100%;
+    background-image: url(IMG/poster_1591416699616.jpg);
+    background-size: 1000px;
+    background-position: 100%;
     background-position: center;
     background-attachment: fixed;
-    font-family: 'Acme', sans-serif;
+   text-align: left;
+
+   
+    
 }
 
 #portifolio{
@@ -23,8 +27,12 @@ body{
     padding-left: 450px;
     font-family: 'Indie Flower', cursive;
     color:  black;
+    text-align: left;
     
-    
+}
+
+.navbar p{
+    text-align: left;
 }
 
 #sobremim label img{
@@ -37,7 +45,7 @@ body{
 }
 
 #formacao label{
-    text-align: center;
+    text-align: c;
     align-items: center;
     
 }
@@ -65,4 +73,9 @@ body{
 #contato label a{
     display: inline;
     text-align: left;
+}
+
+#body p{
+    text-align: left;
+    font-style: normal ;
 }
